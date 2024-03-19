@@ -28,7 +28,7 @@ SECRET_KEY = 'm9f7er=&9)8n)zaoxu_y-2f3zx)y0-m-&xyedj_il)^2n-oej@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['emenopi.pythonanywhere.com']
 
 
 # Application definition
